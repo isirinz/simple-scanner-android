@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleScanner</string>
+    <string name="ok_label">OK</string>
+    <string name="error_label">Error</string>
+    <string name="photo_saved">Photo has been saved to Camera</string>
+    <string name="save_button">Save Photo</string>
+</resources>

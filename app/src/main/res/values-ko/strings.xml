@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">간편스캐너</string>
+    <string name="ok_label">OK</string>
+    <string name="error_label">에러</string>
+    <string name="photo_saved">사진이 카메라에 저장되었습니다</string>
+    <string name="save_button">사진 저장</string>
+</resources>
